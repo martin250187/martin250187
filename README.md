@@ -17,7 +17,7 @@ Hello! I am Martín, a full stack developer with a focus on Geographic Informati
 
 - 🔭 I’m currently working on [RodarRent](https://rodarrent.vercel.app/)
 
-#GIS #WebDevelopment #Technology #Innovation #Collaboration
+#GIS #WebDevelopment #Technology #Innovation #Collaboration #React #Javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
