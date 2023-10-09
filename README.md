@@ -1,16 +1,22 @@
-### Hi there 👋
+Hola, Soy Martín👋
+Full Stack Web Developer 💻
+Henry Bootcamp
 
-<!--
-**martin250187/martin250187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack🚀 y Técnico en Sistemas de Información Geográfica🌍 |  apasionado por la tecnología geoespacial y el desarrollo de software. Con más de una década de experiencia en Sistemas de Información Geográfica (SIG) y un reciente título como Full Stack Developer, mi perfil combina lo mejor de ambos mundos para ofrecer soluciones innovadoras y eficientes. Comprometido con el aprendizaje constante, actualizado con las últimas tendencias y tecnologías.🌍💻
 
-Here are some ideas to get you started:
+Actualmente me encuentro trabajando en RodarRent y usando las siguientes tecnología:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Que tecnologías uso?
+Javascript
+React
+Redux
+Tailwind
+NodeJS
+Express
+PostgreSQL
+Sequelize
+PHP
+
+https://www.linkedin.com/in/martingette250187/
+
+
