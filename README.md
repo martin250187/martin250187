@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
 <h3 align="center">Full Stack Developer 💻</h3>
 
-- 🔭 I’m currently working on [RodarRent](https://rodarrent.vercel.app/)
-
-Full Stack Developer 🚀 || Geographic Information Systems Technician 🌍
+🚀 Full Stack Developer || 🌍 Geographic Information Systems Technician
 
 Hello! I am Martín, a full stack developer with a focus on Geographic Information Systems (GIS). My career is based on creating innovative solutions that merge the digital and geospatial worlds to solve real-world problems.
 
@@ -16,6 +14,8 @@ Hello! I am Martín, a full stack developer with a focus on Geographic Informati
 🤝 I am always looking for new challenges and opportunities for collaboration in the world of technology. Connect with me and discover how together we can take solutions to the next level!
 
 📧 You can contact me at martin.gette.5@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/martingette250187).
+
+- 🔭 I’m currently working on [RodarRent](https://rodarrent.vercel.app/)
 
 #GIS #WebDevelopment #Technology #Innovation #Collaboration
 
