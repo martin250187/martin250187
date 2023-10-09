@@ -17,6 +17,3 @@ PostgreSQL
 Sequelize
 PHP
 
-https://www.linkedin.com/in/martingette250187/
-
-
