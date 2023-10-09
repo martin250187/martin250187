@@ -3,7 +3,21 @@
 
 - 🔭 I’m currently working on [RodarRent](https://rodarrent.vercel.app/)
 
-- 📫 How to reach me **martin.gette.5@gmail.com**
+Full Stack Developer 🚀 || Geographic Information Systems Technician 🌍
+
+Hello! I am Martín, a full stack developer with a focus on Geographic Information Systems (GIS). My career is based on creating innovative solutions that merge the digital and geospatial worlds to solve real-world problems.
+
+🗺️ In my role as a GIS technician, I have worked on projects that use geospatial data to make decisions about the territory. My experience ranges from acquiring and analyzing geographic data to creating applications that leverage location and mapping to offer efficient solutions.
+
+💻 As a Full Stack developer, I have extensive knowledge of modern web technologies. From the front-end layer with HTML, CSS and JavaScript, to the back-end with frameworks like Node.js and SQL databases, I enjoy creating robust and scalable web applications that improve the user experience.
+
+🌍🚀 My passion for programming and geoinformatics is combined in projects that integrate interactive maps, geospatial data visualization and cutting-edge web functionalities.
+
+🤝 I am always looking for new challenges and opportunities for collaboration in the world of technology. Connect with me and discover how together we can take solutions to the next level!
+
+📧 You can contact me at martin.gette.5@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/martingette250187).
+
+#GIS #WebDevelopment #Technology #Innovation #Collaboration
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
