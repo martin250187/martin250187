@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
-<h3 align="center">Full Stack Developer 💻 Henry Bootcamp</h3>
+<h3 align="center">Full Stack Developer 💻</h3>
 
 - 🔭 I’m currently working on [RodarRent](https://rodarrent.vercel.app/)
 
